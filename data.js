@@ -17,5 +17,6 @@ var peopleArray = [
   {name: "Tiffany Love", shoutout: "Tiffany really went out of her way to prep & support the team challenge, to make sure everyone was ready to present."},
   {name: "Y Paul Sussman", shoutout: "Y Paul's outgoing nature and positive attitude has made me feel more comfortable and welcome here at Prime."},
   {name: "Brianna Marie Dickman", shoutout: "Shout out to Bri for noticing that I wasn't tracking and offering to go over the stuff again. She clarified things for me and I was able to move forward."},
-  {name: "Daniel Zera", shoutout: "Dan because he has a great collaborative attitude and is very helpful."}
+  {name: "Daniel Zera", shoutout: "Dan because he has a great collaborative attitude and is very helpful."},
+  {name: "Chris Black", shoutout: "He is the bomb dot com"}
 ];
